@@ -1,6 +1,6 @@
-# C_Exam
+# C Exam
 
-Brackets;
-Ft_itoa_base;
-print_memory;
-rpc_calc;
+* `ft_itoa_base`
+* `brackets`
+* `rpn_calc`
+* `print_memory`
